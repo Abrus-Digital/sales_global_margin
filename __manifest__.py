@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # See LICENSE-DOC file for full copyright and licensing details
 {
-    'name': 'Sales Profit Margin',
+    'name': 'Sales Global Margin',
     'summary': 'Sales Profit Margin',
     'version': '13.0.1.0.0',
     'category': 'Sales',
@@ -11,6 +11,7 @@
     'author': 'Abrus Digital',
     'company': 'Abrus Digital',
     'maintainer': 'Abrus Digital',
+    'support':'info@abrusnetworks.com',
     'installable': True,
     'depends': [
         'base',
